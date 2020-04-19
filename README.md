@@ -1,12 +1,12 @@
 # README_generator
 
-# Password
+# Password Generator
 
 ![GitHub code size](https://img.shields.io/github/languages/code-size/RensyAikara/Password_Generator)
 ![GitHub issues](https://img.shields.io/github/issues/RensyAikara/Password_Generator.svg)
 
 ## Description
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+This project creates a random password according to user choice. User can input length of the required password, which can range from 8 to 128. Also User can select various criterias for the password, such as - Lower case letter - Upper case letter - Numbers - Special characters. Based on the criterias which User selects, this code will generate a random password
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,26 +15,26 @@ There's no one right way to structure a good README. There is one very wrong way
 * [License](#license)
 
 ## Installation
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+Use Visual Studio Code
 
 ## Usage
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+Use password length between 8 and 128
 
 ![]()
 
 ## Credits
 []()
 
-[]()
+[Google](https://www.google.com/)
 
 ## License
 ![License badge](https://img.shields.io/badge/license-MIT-red)
 
 Copyright (c) 2020 Rensy Aikara. All rights reserved.
-Licensed under the ![MIT](./images/image1.png)
+Licensed under the ![MIT]()
 
 ## Contributing
 
 
 ## Tests
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+This is a test
