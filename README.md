@@ -6,7 +6,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/RensyAikara/Password_Generator.svg)
 
 ## Description
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,18 +15,26 @@ If you used any third-party assets that require attribution, list the creators w
 * [License](#license)
 
 ## Installation
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
 
 ## Usage
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+
+![]()
 
 ## Credits
-[dhdadca](https://guides.github.com/features/mastering-markdown/)
-[GitHub](http://github.com)
+[]()
+
+[]()
 
 ## License
-![License badge](https://img.shields.io/badge/license-MIT-orange)
+![License badge](https://img.shields.io/badge/license-MIT-red)
+
+Copyright (c) [2020] [Rensy Aikara]. All rights reserved.
+Licensed under the ![MIT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 
 ## Contributing
+There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
 
 ## Tests
+bvhsbhdhs
